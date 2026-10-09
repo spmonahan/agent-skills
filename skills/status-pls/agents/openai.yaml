@@ -1,0 +1,3 @@
+interface:
+  display_name: "Status Please"
+  short_description: "Show or schedule compact work status"
